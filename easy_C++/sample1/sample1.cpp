@@ -1,6 +1,6 @@
 #include <iostream>
-
 using namespace std;
+// coutを使うために記述する
 
 int main() {
     cout << "ようこそ、C++の世界へ！\n";
